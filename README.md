@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/umerfarooq68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Umerfarooq" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6874796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6874796" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24199686/umer-farooq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24199686" height="30" width="40" /></a>
 <a href="https://hashnode.com/@talhabalaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@talhabalaj" height="30" width="40" /></a>
 <a href="/https://blog.talhabalaj.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.talhabalaj.com/rss.xml" height="30" width="40" /></a>
 </p>
