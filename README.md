@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microservices with Node JS and React**
 
-  - 💬 Ask me about **react, node and cloud**
+- 💬 Ask me about **react, node and cloud**
 
 
 
